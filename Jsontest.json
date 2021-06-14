@@ -7,15 +7,15 @@
       "PlayerDesc": "Into VR development and creating games",
       "MaxGold": "523",
       "Team": "Red"
-    }
+    },
     {
       "UserId": "1",
       "firstname": "Terry",
       "Surname": "Smith",
       "PlayerDesc": "Likes video games and loves spending money on hotdogs and mustard",
       "MaxGold": "23",
-      "Team": "Blue" 
-    }
+      "Team": "Blue"
+    },
     {
       "UserId": "2",
       "firstname": "Emily",
@@ -23,7 +23,7 @@
       "PlayerDesc": "Is into coding and landscape photography but saving for University",
       "MaxGold": "1325",
       "Team": "Blue" 
-    }
+    },
     {
       "UserId": "3",
       "firstname": "Olivia",
