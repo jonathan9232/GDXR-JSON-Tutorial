@@ -1,5 +1,5 @@
 {
-  "userinfo":[
+  "userinfo": [
     {
       "userId": "0",
       "firstName": "Jonathan",
@@ -33,3 +33,4 @@
       "Team": "Red" 
     }
   ]
+}
