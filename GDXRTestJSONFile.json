@@ -1,10 +1,10 @@
 {
-  "UserInfo":[
+  "userinfo":[
     {
-      "UserId": "0",
-      "firstname": "Jonathan",
+      "userId": "0",
+      "firstName": "Jonathan",
       "Surname": "Bardwell",
-      "PlayerDesc": "Into VR development and creating games",
+      "playerDesc": "Into VR development and creating games",
       "MaxGold": "523",
       "Team": "Red"
     },
